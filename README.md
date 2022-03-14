@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **reactJS, VueJS, Angular**
 
-- 📫 How to reach me **0909-217-1482**
+- 📫 How to reach me **christian.gignate@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
