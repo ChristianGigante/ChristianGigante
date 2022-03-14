@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UDEMY**
 
-- 💬 Ask me about **reactJS, VueJS, Angular**
+- 💬 Ask me about **IT stuffs**
 
 - 📫 How to reach me **christian.gignate@gmail.com**
 
